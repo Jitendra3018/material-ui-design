@@ -1,7 +1,7 @@
-import Home from "./components/pages/Home";
+import Home from "./pages/Home";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SearchAppBar from "./components/SearchAppBar";
-import Tour from "./components/pages/Tour";
+import Tour from "./pages/Tour";
 
 function App() {
 	return (

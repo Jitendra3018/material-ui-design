@@ -82,7 +82,7 @@ function TourCard({
 								component="h3"
 								marginLeft={0}
 							>
-								From C ${price}
+								From C $ {price}
 							</Typography>
 						</Box>
 					</Box>

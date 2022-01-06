@@ -1,6 +1,6 @@
 import { Container, Grid, Typography } from "@mui/material";
-import TourCard from "../TourCard";
-import cities from "../../data.json";
+import TourCard from "../components/TourCard";
+import cities from "../data.json";
 
 function Home() {
 	return (
